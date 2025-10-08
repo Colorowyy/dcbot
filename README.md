@@ -13,11 +13,11 @@ As of now we support
 - [ ] Windows - main focus
 - [ ] MacOS 14 - not planning to release for that platform any more
 
-To start you’ll need to edit a `.bat` file to accommodate for your Discord bots. More below in **Tutorial**
+To start you’ll need to edit a `.bat` file to accommodate for your Discord bots. More below in **Tutorial**.
 We are beginning the transition to support `.env` to increase the security of the endpoint users.
 
 ### Available functions ( in this version ):
-All commands start with _?_ symbol, and to display the commands you’ll need to use _?cmd_
+All commands start with _?_ symbol, and to display the commands you’ll need to use `?cmd`
 To simplify the usage we decided to divide the commands into two categories:
 
 1. Server side
