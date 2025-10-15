@@ -2,15 +2,14 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Starting with version 4.2 we like to announce regular security updates for the app. We strongly recomend using the newest version to achieve the highest level of security.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+|   4.2   | :white_check_mark: |
+|   4.1   | :x:                |
+|   4.0   | :x:                |
+| < 3.0   | :x:                |
 
 ## Reporting a Vulnerability
 
